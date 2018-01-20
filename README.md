@@ -1,6 +1,4 @@
 # Checkerboard-score-C-score-analysis
-
-# Co-occurrence network analysis
 This folder contains the R scripts for the checkerboard score (C-score) analysis of non-random species co-occurrence patterns (i.e., species segration and/or aggregation), starting from an abundance table of microbial OTUs/taxa. The abundance table is a tab-delimited text file in which each row represents a microbial entity and each column represents a sampling point (see the example folder).
 
 References: 
