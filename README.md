@@ -7,4 +7,4 @@ Ju F, Xia Y, Guo F, Wang ZP, Zhang T. 2014. Taxonomic relatedness shapes bacteri
 
 Hu AY, Ju F, Hou LY, Li JW, Yang XY, Wang HJ, Mulla SI, Sun Q, Bürgmann H, Yu CP. 2017. Strong impact of anthropogenic contamination on the co-occurrence patterns of a riverine microbial community. Environmental Microbiology (2017) 19(12), 4993–500
 
-Stone L1, Roberts A. 1990. The checkerboard score and species distributions.85(1):74-79. doi: 10.1007/BF00317345.
+Stone L, Roberts A. 1990. The checkerboard score and species distributions.85(1):74-79. doi: 10.1007/BF00317345.
